@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
+- 🔭 I’m a Student Software Engineer from  of Engineering
 - 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
