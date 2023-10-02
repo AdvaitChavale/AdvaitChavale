@@ -1,11 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student Software Engineer from  of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
-- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- 🔭 I’m a Student electronics and Computer Engineer from Atharva college of Engineering
+- 💬 Let's talk about Language Technologies, Cloud, Data Science, Machine Learning and AI.
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/advait-chavale/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
+
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 <details>
 <summary>
