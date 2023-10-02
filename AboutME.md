@@ -75,12 +75,12 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
-    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/AdvaitChavale/AdvaitChavale/"><img width="27px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head.png" alt="Advait Chavale - GitHub" /></a>
     &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://www.linkedin.com/in/advait-chavale/"><img width="27px" src="https://w7.pngwing.com/pngs/276/472/png-transparent-linkedin-computer-icons-blog-logo-watercolor-butterfly-angle-text-rectangle.png" alt="Advait Chavale - LinkedIn" /></a> 
     &nbsp;&nbsp;
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
+    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Advait Chavale - Website" /></a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+   <a id="Mail" href="mailto:advaitchavale654@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Aavait Chavale - Mail"/></a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
