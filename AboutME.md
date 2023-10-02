@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Krishnakanth Alagiri (Him/He) 🌻
-- 🔭 I’m a Student electronics and Computer Engineer from Atharva college of Engineering
+## Advait Santosh Chavale (Him/He) 🌻
+- 🔭 I’m a Student in Electronics and Computer Engineer at Atharva college of Engineering
 - 💬 Let's talk about Language Technologies, Cloud, Data Science, Machine Learning and AI.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/advait-chavale/)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
