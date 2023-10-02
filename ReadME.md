@@ -81,6 +81,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
     &nbsp;&nbsp;
     <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/web.png" alt="Advait Chavale - Website" /></a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:advaitchavale654@gmail.com"><img width="27px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail2020.logo.png" alt="Advait Chavale - Mail"/></a>
+   <a id="Mail" href="mailto:advaitchavale654@gmail.com"><img width="27px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3253840/google-gmail-icon-sm.png" alt="Advait Chavale - Mail"/></a>
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
