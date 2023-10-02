@@ -11,7 +11,7 @@
 <details>
 <summary>
   <a href="https://github.com/AdvaitChavale"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
-</summary>
+
 
 
 ### Little More About Me  
@@ -70,6 +70,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
    - Won the Third Place in a 24-hour Hackathon of over 300+ participants conducted by the IEEE Chapter of **SSN College of Engineering, Chennai**.
 5. **Founder and Lead - Active Specialized Support Group (ASSG)**
    - It was started as an effort to combat a lack of technical diversity within our college. We also run weekly workshops for students from all departments across the college
+</summary>
  
 <br></details>
 <!-- footer --!>
