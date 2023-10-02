@@ -73,7 +73,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
  
 <br></details>
 <!-- footer --!>
-<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
+
 <p align="center">
     <a id="GitHub" href="https://github.com/AdvaitChavale/AdvaitChavale/"><img width="27px" src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head.png" alt="Advait Chavale - GitHub" /></a>
     &nbsp;&nbsp;     
