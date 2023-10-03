@@ -38,7 +38,6 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
