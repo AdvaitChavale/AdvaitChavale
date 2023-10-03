@@ -19,7 +19,7 @@
 
 I am very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I love meeting new people and learning new things, so please feel free to say hello and share a story with me. I'm good at Team Building and collaboration. In fact, I'm currently the [Management Head at ACE GS](https://atharvacoe.ac.in/ground-station/). My secret sauce is getting people excited about the things I'm excited about. I also love Hackathons (Who doesn't love Pizzas and Swags). I'm currently focusing :dart: of Cloud Architectures, Natural Language Processing and Deep Learning.
 
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+Here's my childhood favourite song for you :trumpet:- [**Mahabali Maharudra** from **Hanuman**.](https://www.youtube.com/watch?v=7ukxeA38EK4)
 
 ### Programming Languages :scroll:
 
