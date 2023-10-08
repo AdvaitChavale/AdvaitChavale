@@ -3,10 +3,10 @@
 ## Advait Santosh Chavale (Him/He) 🌻
 - 🔭 I’m a Student in Electronics and Computer Engineer at Atharva college of Engineering
 - 💬 Let's talk about Language Technologies, Cloud, Data Science, Machine Learning and AI.
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/advait-chavale/)
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/advait-chavale/) and .[My Website](https://tjagtap385.wixsite.com/mysite)
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/> 
 
 <details>
 <summary>
