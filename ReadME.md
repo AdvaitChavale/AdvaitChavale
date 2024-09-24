@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-## Advait Santosh Chavale (Him/He) 🌻
+## Advait Chavale (Him/He) 🌻
 - 🔭 I’m a Student in Electronics and Computer Engineer at Atharva college of Engineering
 - 💬 Let's talk about Language Technologies, Cloud, Data Science, Machine Learning and AI.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/advait-chavale/) and .[My Website](https://tjagtap385.wixsite.com/mysite)
